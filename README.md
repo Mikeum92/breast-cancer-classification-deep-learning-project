@@ -25,9 +25,8 @@ Classification Report
            1       0.99      0.99      0.99        88
 
     accuracy                           0.99       143
-   macro avg       0.99      0.99      0.99       143
-weighted avg       0.99      0.99      0.99       143
+
 
 Confusion Matrix
-[[54  1]
- [ 1 87]]
+                     [54  1]
+                     [ 1 87]
